@@ -1,0 +1,144 @@
+{
+	"logo_mandala": [
+		{
+			"group": "képpel való navigáció és felderítés",
+			"items": [
+				{
+					"href": "1.jpg",
+					"title": "Képpel való navigáció és felderítés",
+					"class": "left"
+				},
+				{
+					"href": "aperc.jpg",
+					"title": "A perc",
+					"class": ""
+				},
+				{
+					"href": "hajnalban.jpg",
+					"title": "Hajnalban",
+					"class": "right"
+				},
+				{
+					"href": "kodben.jpg",
+					"title": "Ködben imbolygó",
+					"class": "left"
+				},
+				{
+					"href": "liramegtukor.jpg",
+					"title": "Líra meg tükör",
+					"class": ""
+				},
+				{
+					"href": "marcidus.jpg",
+					"title": "Márcidus",
+					"class": "right"
+				}
+			]
+		},
+		{
+			"group": "cupiditati nihil est satis",
+			"items": [
+				{
+					"href": "Cupidi.jpg",
+					"title": "cupiditati nihil est satis",
+					"class": "left"
+				},
+				{
+					"href": "gesztenyes.jpg",
+					"title": "Gesztenyés",
+					"class": ""
+				},
+				{
+					"href": "holgyfacsordak.jpg",
+					"title": "Hölgyfacsordák árnyékában",
+					"class": "right"
+				},
+				{
+					"href": "ketdevel.jpg",
+					"title": "Két dével",
+					"class": "left"
+				},
+				{
+					"href": "olga.jpg",
+					"title": "Olga",
+					"class": ""
+				},
+				{
+					"href": "volegeny.jpg",
+					"title": "Vőlegény",
+					"class": "right"
+				}
+			]
+		},
+		{
+			"group": "műesés",
+			"items": [
+				{
+					"href": "mueses.jpg",
+					"title": "Műesés",
+					"class": "left"
+				},
+				{
+					"href": "lakatlanhold.jpg",
+					"title": "Lakatlan hold",
+					"class": ""
+				},
+				{
+					"href": "letrom.jpg",
+					"title": "Létrom",
+					"class": "right"
+				},
+				{
+					"href": "pikszis.jpg",
+					"title": "Pikszis",
+					"class": "left"
+				},
+				{
+					"href": "sargasoreny.jpg",
+					"title": "Sárga sörény",
+					"class": ""
+				},
+				{
+					"href": "tombola.jpg",
+					"title": "Tombola tavasz",
+					"class": "right"
+				}
+			]
+		},
+		{
+			"group": "a hiánynak nincs megoldóképlete csak komikusan homorú filozófiája van",
+			"items": [
+				{
+					"href": "ahianynak.jpg",
+					"title": "A hiánynak nincs megoldóképlete csak komikusan homorú filozófiája van",
+					"class": "left"
+				},
+				{
+					"href": "20090501.jpg",
+					"title": "20090501",
+					"class": ""
+				},
+				{
+					"href": "miertnem.jpg",
+					"title": "Miért nem felelsz",
+					"class": "right"
+				},
+				{
+					"href": "miskolctiszai.jpg",
+					"title": "Miskolc Tiszai pu.",
+					"class": "left"
+				},
+				{
+					"href": "szerele1.jpg",
+					"title": "szerelem I.",
+					"class": ""
+				},
+				{
+					"href": "ureskerek.jpg",
+					"title": "Üres kerék",
+					"class": "right"
+				}
+			]
+		}
+	]
+}
